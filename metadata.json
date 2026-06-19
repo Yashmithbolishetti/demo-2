@@ -1,0 +1,6 @@
+{
+  "name": "Banjaaras Boutique",
+  "description": "Premium designer luxury boutique specializing in handcrafted maggam work, designer blouses, sarees, bridal wear, and custom stitching in Hitech City, Mancherial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
